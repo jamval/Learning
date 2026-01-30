@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "01246702cd2150f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cdcb393ea768963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06941a82b5dba69f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Keyboard Shortcuts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keyboard Shortcuts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42a3ee58487e352d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6df6196e03a90793",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49863235a780eebe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "883f49a361a80ba6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cfc6d20a025a192f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f0707d7763ec4b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc94a48a49d8846f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76b4d98a03ade531",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Keyboard Shortcuts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Keyboard Shortcuts"
+            }
+          },
+          {
+            "id": "9af557b15eb1a8da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Keyboard Shortcuts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Keyboard Shortcuts"
+            }
+          },
+          {
+            "id": "101e3fe6a2b5adeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d41f39ce1e531e66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Keyboard Shortcuts.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Keyboard Shortcuts"
+            }
+          },
+          {
+            "id": "66d56a6f5832d910",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "6f247532f3ab1ee1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "06941a82b5dba69f",
+  "lastOpenFiles": [
+    "_Indexes/10 Programming Notes.md",
+    "_Indexes/00 University Notes.md",
+    "Notes/Latex Suite.md",
+    "Latex Suite.md",
+    "Notes/Keyboard Shortcuts.md",
+    "Keyboard Shortcuts.md",
+    "_Indexes/00 - University Notes.md",
+    "_Indexes/10 - Programming Notes.md",
+    "Untitled.md",
+    "IMG_8669.jpeg",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "_Notes Main.md",
+    "_Indexes/00 - Uni Notes.md",
+    "_Indexes/01 - Programming Notes.md",
+    "Templates",
+    "Attachments",
+    "Notes",
+    "_Indexes",
+    "Test Folder/Test.md",
+    "0 - Uni Notes/01 - Year 1/New folder",
+    "9 - Embeds/91 - Attachments",
+    "9 - Embeds/90 - Embedded Notes",
+    "9 - Embeds",
+    "1 - Programming Notes",
+    "0 - Uni Notes/07 - YII"
+  ]
+}

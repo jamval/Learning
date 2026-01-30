@@ -1,0 +1,42 @@
+{
+  "highlighterStyle": "realistic",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "Pink": "#FFB8EBA6",
+    "Red": "#FF5582A6",
+    "Orange": "#FFB86CA6",
+    "Yellow": "#FFF3A3A6",
+    "Green": "#BBFABBA6",
+    "Cyan": "#ABF7F7A6",
+    "Blue": "#ADCCFFA6",
+    "Purple": "#D2B3FFA6",
+    "Grey": "#CACFD9A6",
+    "FluorescentYellow": "#fdff00A6",
+    "FluorescentOrange": "#ff9a00a6",
+    "FluorescentGreen": "#00ff04A6",
+    "FluorescentBlue": "#00c5ffA6",
+    "FluorescentPink": "#ff00a7A6",
+    "FluorescentPurple": "#bd00ffA6",
+    "FluorescentBlue2": "#00f9ffA6",
+    "FluorescentPink2": "#ff00dbA6"
+  },
+  "highlighterOrder": [
+    "FluorescentYellow",
+    "FluorescentGreen",
+    "FluorescentBlue",
+    "FluorescentPink",
+    "FluorescentPurple",
+    "FluorescentOrange",
+    "FluorescentPink2",
+    "FluorescentBlue2",
+    "Red",
+    "Pink",
+    "Orange",
+    "Yellow",
+    "Green",
+    "Cyan",
+    "Blue",
+    "Purple",
+    "Grey"
+  ]
+}

@@ -1,0 +1,32 @@
+.callout[data-callout="definition"] {
+	--callout-color: 29, 217, 255;
+	--callout-icon: lucide-book-text;
+}
+.callout[data-callout="theorem"] {
+	--callout-color: 29, 217, 255;
+	--callout-icon: lucide-book-open;
+}
+.callout[data-callout="proposition"] {
+	--callout-color: 50, 180, 255;
+	--callout-icon: lucide-circle-question-mark;
+}
+.callout[data-callout="lemma"] {
+	--callout-color: 50, 180, 255;
+	--callout-icon: lucide-book-open;
+}
+.callout[data-callout="corollary"] {
+	--callout-color: 63, 150, 255;
+	--callout-icon: lucide-book-open;
+}
+.callout[data-callout="proof"] {
+	--callout-color: 124, 77, 255;
+	--callout-icon: lucide-book-open-check;
+}
+.callout[data-callout="example+"] {
+	--callout-color: 29, 255, 138;
+	--callout-icon: lucide-book-check;
+}
+.callout[data-callout="remark"] {
+	--callout-color: 30, 113, 255;
+	--callout-icon: lucide-info;
+}
